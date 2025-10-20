@@ -1,0 +1,4 @@
+.venv/
+venv/
+project_structure.txt
+__pycache__/
