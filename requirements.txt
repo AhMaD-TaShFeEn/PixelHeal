@@ -1,0 +1,10 @@
+torch>=1.12
+torchvision
+numpy
+Pillow
+tqdm
+matplotlib
+scikit-image
+streamlit
+kaggle            # if using kaggle API to download dataset
+opencv-python
